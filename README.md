@@ -3,10 +3,10 @@
 A Deep Learning model built with PyTorch to classify network traffic as malicious or benign. The dataset is preprocessed using Pandas, NumPy, and Scikit-learn, ensuring high-quality feature engineering and data normalization.
 
 ## Performance:
-- ✅ 99% accuracy on unseen data
-- ✅ Only 0.01% incorrect predictions, with:
-    🔸 0.5% false positives
-    🔸 0.5% false negatives
+- ✅ 97.08% accuracy on unseen data
+- ✅ Only 2.9199% incorrect predictions, with:
+    🔸 0.2% false negatives
+    🔸 0.8% false positives
 
 ## Features
 - Binary classification of network traffic (malicious vs. benign).
